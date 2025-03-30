@@ -24,9 +24,9 @@ A total of **5000 images of nuts** were taken on a **green background**, divided
 - **2500 images of good nuts**
 - **2500 images of bad nuts**
 
-Example images:
-- ![Good Nut](link_to_image_1)
-- ![Bad Nut](link_to_image_2)
+Example images (good nut/bad nut):
+- ![Good Nut](https://github.com/garpastyls/Nut_Classify_CNN/blob/main/Good%20nut.png)
+- ![Bad Nut](https://github.com/garpastyls/Nut_Classify_CNN/blob/main/Bad%20nut.png)
 
 ### Data Organization
 Create a `data/` directory with the following subdirectories:
